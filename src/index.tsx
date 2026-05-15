@@ -7,6 +7,8 @@ import '@fontsource/space-mono/400.css';
 import '@fontsource/space-mono/700.css';
 import '@fontsource/space-mono/400-italic.css';
 import '@fontsource/space-mono/700-italic.css';
+import "@fontsource/vazirmatn";
+import "@fontsource-variable/vazirmatn";
 import 'folds/dist/style.css';
 import { configClass, varsClass } from 'folds';
 import { trimTrailingSlash } from './app/utils/common';
